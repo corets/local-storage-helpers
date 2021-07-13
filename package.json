@@ -1,7 +1,7 @@
 {
   "name": "@corets/local-storage-helpers",
   "description": "Various helpers related to localStorage specific functionality",
-  "version": "0.1.0-1",
+  "version": "0.1.0",
   "author": "Maxim Kott",
   "license": "MIT",
   "main": "dist/index.js",
