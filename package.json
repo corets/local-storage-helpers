@@ -21,7 +21,7 @@
     "/dist"
   ],
   "repository": "github:corets/local-storage-helpers",
-  "homepage": "https://corets.github.io/local-storage-helpers",
+  "homepage": "https://docs.corets.io/helpers/local-storage-helpers",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
